@@ -612,6 +612,12 @@ height:452px;
         height: 85vh!important;
         grid-row: 2/span 4 !important;
     }
+    .welcome{
+        grid-row: 4;
+    }
+    .dash {
+        transform: translate(20%, -13%);
+    }
     .slogan{
         grid-row:4;
     } 
