@@ -627,8 +627,8 @@ height:452px;
     }
     /* about */
     .aboutImage{
-        height: 42vh !important;
-        grid-column: 4 / span 15;
+        height: 70vh !important;
+        grid-column: 23 / span 15;
         width: 37vw;
     }
     /* statistics animation part */
@@ -671,22 +671,22 @@ height:452px;
     }
 
     .aboutCompany{
-        grid-column: 25 / span 13;
+        grid-column: 5 / span 13;
     }
     .aboutDash{
         transform: translateY(-6px)!important;
     }
     .aboutSlogan{
-        grid-column: 23 / span 15;
+        grid-column: 3 / span 15;
     }
     .aboutDetails{
-         grid-column: 23 / span 15;
+         grid-column: 3 / span 15;
         }
     .aboutPros{
-        grid-column: 23 / span 15;
+        grid-column: 3 / span 15;
     }
         .aboutEmergency{
-            grid-column: 23 / span 7; 
+            grid-column: 3 / span 7; 
         }
 
     /* portfolio */
