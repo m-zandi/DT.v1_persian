@@ -450,6 +450,8 @@ html{
 .aboutDetails p{
 
     width: 100%;
+    direction: rtl;
+
     text-align: justify;  
     font-size: 100%;          
 }
@@ -851,12 +853,12 @@ html{
 }
 
   /* visability  part */
-  .lang,.footerLang{
-    /* visibility: hidden;
+  /* .lang,.footerLang{
+    visibility: hidden;
     opacity: 0;
-    display: none; */
+    display: none;
   }
   .dividerLang{
-        /* opacity: 0; */
+        opacity: 0;
     
-  }
+  } */
